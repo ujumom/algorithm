@@ -13,6 +13,7 @@
  
 
 # 구현
+22/10/9
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/21608" target="_blank">21608</a> | <a href="https://www.acmicpc.net/problem/21608" target="_blank">상어 초등학교</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/implementation/21608">바로가기</a> |
@@ -26,25 +27,39 @@
 | 14 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/20436" target="_blank">20436</a> | <a href="https://www.acmicpc.net/problem/20436" target="_blank">ZOAC 3</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/implementation/20436">바로가기</a> |
 | 16 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/20291" target="_blank">20291</a> | <a href="https://www.acmicpc.net/problem/20291" target="_blank">파일 정리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/implementation/20291">바로가기</a> |
 | 17 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/17413" target="_blank">17413</a> | <a href="https://www.acmicpc.net/problem/17413" target="_blank">단어 뒤집기 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/implementation/17413">바로가기</a> |
+
+22/10/10
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 18 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/22858" target="_blank">22858</a> | <a href="https://www.acmicpc.net/problem/22858" target="_blank">원상 복구 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 19 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2615" target="_blank">2615</a> | <a href="https://www.acmicpc.net/problem/2615" target="_blank">오목</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 20 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/17276" target="_blank">17276</a> | <a href="https://www.acmicpc.net/problem/17276" target="_blank">배열 돌리기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 21 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/15787" target="_blank">15787</a> | <a href="https://www.acmicpc.net/problem/15787" target="_blank">기차가 어둠을 헤치고 은하수를</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="./../solution/implementation/15787">바로가기</a> |
 | 22 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/16926" target="_blank">16926</a> | <a href="https://www.acmicpc.net/problem/16926" target="_blank">배열 돌리기 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/implementation/16926">바로가기</a> |
+22/10/11
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 23 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/20207" target="_blank">20207</a> | <a href="https://www.acmicpc.net/problem/20207" target="_blank">달력</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/implementation/20207">바로가기</a> |
 | 24 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/20164" target="_blank">20164</a> | <a href="https://www.acmicpc.net/problem/20164" target="_blank">홀수 홀릭 호석</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 25 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/14719" target="_blank">14719</a> | <a href="https://www.acmicpc.net/problem/14719" target="_blank">빗물</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/implementation/14719">바로가기</a> |
 | 26 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/16719" target="_blank">16719</a> | <a href="https://www.acmicpc.net/problem/16719" target="_blank">ZOAC</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+22/10/12
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 27 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/22856" target="_blank">22856</a> | <a href="https://www.acmicpc.net/problem/22856" target="_blank">트리 순회</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/implementation/22856">바로가기</a> |
 | 28 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/22860" target="_blank">22860</a> | <a href="https://www.acmicpc.net/problem/22860" target="_blank">폴더 정리 (small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 29 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/22859" target="_blank">22859</a> | <a href="https://www.acmicpc.net/problem/22859" target="_blank">HTML 파싱</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 
 # 그리디
+22/10/12
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/14916" target="_blank">14916</a> | <a href="https://www.acmicpc.net/problem/14916" target="_blank">거스름돈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/greedy/14916">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1343" target="_blank">1343</a> | <a href="https://www.acmicpc.net/problem/1343" target="_blank">폴리오미노</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2217" target="_blank">2217</a> | <a href="https://www.acmicpc.net/problem/2217" target="_blank">로프</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/greedy/2217">바로가기</a> |
+22/10/13
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 03 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/13305" target="_blank">13305</a> | <a href="https://www.acmicpc.net/problem/13305" target="_blank">주유소</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/greedy/13305">바로가기</a> |
 | 04 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1758" target="_blank">1758</a> | <a href="https://www.acmicpc.net/problem/1758" target="_blank">알바생 강호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/greedy/1758">바로가기</a> |
 | 05 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/11508" target="_blank">11508</a> | <a href="https://www.acmicpc.net/problem/11508" target="_blank">2+1 세일</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/greedy/11508">바로가기</a> |
