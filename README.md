@@ -1,16 +1,29 @@
 
+# 상어시리즈
+
+
+아기상어 https://www.acmicpc.net/problem/16236
+청소년상어 https://www.acmicpc.net/problem/19236
+어른상어 https://www.acmicpc.net/problem/19237
+마법사 상어와 비바라기
+https://www.acmicpc.net/problem/21610
+마법사 상어와 파이어볼
+https://www.acmicpc.net/problem/20056
+마법사 상어와 파이어스톰
+https://www.acmicpc.net/problem/20058
+마법사 상어와 토네이도
+https://www.acmicpc.net/problem/20057
+마법사 상어와 블리자드
+https://www.acmicpc.net/problem/21611
+
 # 구현
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/21608" target="_blank">21608</a> | <a href="https://www.acmicpc.net/problem/21608" target="_blank">상어 초등학교</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/implementation/21608">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/21611" target="_blank">21611</a> | <a href="https://www.acmicpc.net/problem/21611" target="_blank">마법사 상어와 블리자드</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
-| 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2753" target="_blank">2753</a> | <a href="https://www.acmicpc.net/problem/2753" target="_blank">윤년</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./../solution/implementation/2753">바로가기</a> |
 | 03 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1212" target="_blank">1212</a> | <a href="https://www.acmicpc.net/problem/1212" target="_blank">8진수 2진수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./../solution/implementation/1212">바로가기</a> |
-| 04 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/20053" target="_blank">20053</a> | <a href="https://www.acmicpc.net/problem/20053" target="_blank">최소, 최대 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./../solution/implementation/20053">바로가기</a> |
-| 05 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/5597" target="_blank">5597</a> | <a href="https://www.acmicpc.net/problem/5597" target="_blank">과제 안 내신 분..?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/implementation/5597">바로가기</a> |
 | 06 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/21918" target="_blank">21918</a> | <a href="https://www.acmicpc.net/problem/21918" target="_blank">전구</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/implementation/21918">바로가기</a> |
 | 07 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/20546" target="_blank">20546</a> | <a href="https://www.acmicpc.net/problem/20546" target="_blank">🐜 기적의 매매법 🐜</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <a href="./../solution/implementation/20546">바로가기</a> |
-| 08 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/14467" target="_blank">14467</a> | <a href="https://www.acmicpc.net/problem/14467" target="_blank">소가 길을 건너간 이유 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/implementation/14467">바로가기</a> |
 | 09 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2578" target="_blank">2578</a> | <a href="https://www.acmicpc.net/problem/2578" target="_blank">빙고</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/implementation/2578">바로가기</a> |
 | 10 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/4396" target="_blank">4396</a> | <a href="https://www.acmicpc.net/problem/4396" target="_blank">지뢰 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/implementation/4396">바로가기</a> |
 | 11 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1913" target="_blank">1913</a> | <a href="https://www.acmicpc.net/problem/1913" target="_blank">달팽이</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/implementation/1913">바로가기</a> |
