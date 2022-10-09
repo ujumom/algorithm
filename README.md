@@ -1,20 +1,16 @@
 
 # 상어시리즈
-
-
-아기상어 https://www.acmicpc.net/problem/16236
-청소년상어 https://www.acmicpc.net/problem/19236
-어른상어 https://www.acmicpc.net/problem/19237
-마법사 상어와 비바라기
-https://www.acmicpc.net/problem/21610
-마법사 상어와 파이어볼
-https://www.acmicpc.net/problem/20056
-마법사 상어와 파이어스톰
-https://www.acmicpc.net/problem/20058
-마법사 상어와 토네이도
-https://www.acmicpc.net/problem/20057
-마법사 상어와 블리자드
-https://www.acmicpc.net/problem/21611
+|  문제 |  링크  |
+| :-----: | :-----: |
+| 아기상어 | https://www.acmicpc.net/problem/16236|
+| 청소년상어 | https://www.acmicpc.net/problem/19236 |
+| 어른상어| https://www.acmicpc.net/problem/19237 |
+|마법사 상어와 비바라기|https://www.acmicpc.net/problem/21610|
+|마법사 상어와 파이어볼|https://www.acmicpc.net/problem/20056|
+|마법사 상어와 파이어스톰|https://www.acmicpc.net/problem/20058|
+|마법사 상어와 토네이도|https://www.acmicpc.net/problem/20057|
+|마법사 상어와 블리자드|https://www.acmicpc.net/problem/21611|
+ 
 
 # 구현
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
