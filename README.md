@@ -11,7 +11,7 @@
 |마법사 상어와 토네이도|https://www.acmicpc.net/problem/20057|
 |마법사 상어와 블리자드|https://www.acmicpc.net/problem/21611|
  
-구현
+# 구현
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/21608" target="_blank">21608</a> | <a href="https://www.acmicpc.net/problem/21608" target="_blank">상어 초등학교</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/implementation/21608">바로가기</a> |
@@ -69,7 +69,7 @@
 | 17 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/16916" target="_blank">16916</a> | <a href="https://www.acmicpc.net/problem/16916" target="_blank">부분 문자열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 18 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/20210" target="_blank">20210</a> | <a href="https://www.acmicpc.net/problem/20210" target="_blank">파일 탐색기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 
-그래프 탐색
+# 그래프 탐색
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2606" target="_blank">2606</a> | <a href="https://www.acmicpc.net/problem/2606" target="_blank">바이러스</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/graph_traversal/2606">바로가기</a> |
@@ -167,7 +167,7 @@
 | 26 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/17136" target="_blank">17136</a> | <a href="https://www.acmicpc.net/problem/17136" target="_blank">색종이 붙이기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 27 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1799" target="_blank">1799</a> | <a href="https://www.acmicpc.net/problem/1799" target="_blank">비숍</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
 
-완전탐색
+# 완전탐색
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/22864" target="_blank">22864</a> | <a href="https://www.acmicpc.net/problem/22864" target="_blank">피로도</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |                      |
@@ -205,7 +205,7 @@
 | 32 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/21943" target="_blank">21943</a> | <a href="https://www.acmicpc.net/problem/21943" target="_blank">연산 최대로</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 
 
-
+# 자료구조
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/10828" target="_blank">10828</a> | <a href="https://www.acmicpc.net/problem/10828" target="_blank">스택</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/data_structure/10828">바로가기</a> |
