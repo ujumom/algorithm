@@ -201,9 +201,6 @@
 |마법사 상어와 파이어스톰|https://www.acmicpc.net/problem/20058|
 |마법사 상어와 토네이도|https://www.acmicpc.net/problem/20057|
 |마법사 상어와 블리자드|https://www.acmicpc.net/problem/21611|
- 
- 
-# 프로그래머스 레벨 1
 
 # 프로그래머스 레벨 2
 
